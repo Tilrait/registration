@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+body {
+    background-color: #DEE33E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.square {
+    background-color: white;
+    height: 720px;
+    width: 567px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo {
+    margin-top: -200px;
+}
+
+.inscription {
+    margin-top: 30px;
+}
+
+.textColor {
+    -webkit-text-fill-color: #9FA324;
+    font-family: Outfit;
+}
+
+.text {
+    font-family: Outfit;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 110px;
+}
+
+.text2 {
+    font-family: Outfit;
+    margin-top: -18px;
+    margin-right: 70px;
+}
+
+.text3 {
+font-family: Outfit;
+-webkit-text-fill-color: #718096;
+}
+
+
+.input {
+  display: flex;
+  font-family: Outfit;
+  margin-right: 290px;
+  margin-bottom: 24px;
+  margin-top: 30px;
+  background-color: #FAFAFA;
+  padding: 16px;
+  outline: none;
+  border: none;
+  height: 56px;
+  width: 235px;
+  border-radius: 8px;
+}
+
+.input2 {
+    display: flex;
+    font-family: Outfit;
+    margin-bottom: 24px;
+    margin-left: 290px;
+    margin-top: -110px;
+    background-color: #FAFAFA;
+    padding: 16px;
+    outline: none;
+    border: none;
+    height: 56px;
+    width: 235px;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+.input3 {
+    display: flex;
+    font-family: Outfit;
+    margin-right: 10px;
+    margin-bottom: 24px;
+    background-color: #FAFAFA;
+    outline: none;
+    border: none;
+    height: 23px;
+    width: 514px;
+    border-radius: 8px;
+    padding: 16px;
+  }
+
+.input label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.button1 {
+    height: 56px;
+    width: 514px;
+    background-color: #DEE33E;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: Outfit;
+    padding: 16px;
+}
+
+.radio {
+    margin-right: 530px;
+    margin-top: -20px;
+}
+
+.googleIcon {
+    margin-right: 20px;
+    margin-top: -5px;
+    height: 30px;
+    width: 30px;
+}
+
+.appleIcon {
+    margin-right: 20px;
+    margin-top: -5px;
+}
+.hideIcon {
+    width: 20px;
+    height: 14px;
+    position: relative;
+    top: -57px;
+    left: 510px;
+}
+
+.button2 {
+    height: 56px;
+    width: 216.5px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: Outfit;
+    background-color: white;
+    border: 1px solid #EEEFF2;
+}
+
+.button3 {
+    height: 56px;
+    width: 216.5px;
+    border-radius: 8px;
+    margin-left: 40px;
+    margin-top: 30px;
+    cursor: pointer;
+    font-family: Outfit;
+    background-color: white;
+    border: 1px solid #EEEFF2;
+}
+
+.position {
+    margin-top: 40px;
+    font-family: Outfit;
+}
